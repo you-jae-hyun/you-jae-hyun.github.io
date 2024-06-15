@@ -75,6 +75,6 @@ exclude: null
 ignore: null
 plugins:
   - hexo-generator-cname
-theme: landscape
+theme: butterfly
 deploy:
   type: ''
