@@ -9,8 +9,32 @@
     <atom:link href="https://you-jae-hyun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 15 Jun 2024 06:28:49 GMT</pubDate>
+    <pubDate>Sat, 15 Jun 2024 06:33:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>새로운 글 내용이에요.</title>
+      <link>https://you-jae-hyun.github.io/2024/06/15/20240615153236_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B8%80_%EB%82%B4%EC%9A%A9%EC%9D%B4%EC%97%90%EC%9A%94./</link>
+      <guid>https://you-jae-hyun.github.io/2024/06/15/20240615153236_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B8%80_%EB%82%B4%EC%9A%A9%EC%9D%B4%EC%97%90%EC%9A%94./</guid>
+      <pubDate>Sat, 15 Jun 2024 15:32:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;l</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line">fs.<span class="title function_">writeFileSync</span>(<span class="string">&#x27;test.txt&#x27;</span>, <span class="string">&#x27;Hello World&#x27;</span>);</span><br></pre></td></tr></table></figure><h1 id="헤더1"><a href="#헤더1" class="headerlink" title="헤더1"></a>헤더1</h1><h2 id="헤더-2"><a href="#헤더-2" class="headerlink" title="헤더 2"></a>헤더 2</h2><p><img src="https://cdn.jsdelivr.net/gh/you-jae-hyun/you-jae-hyun.github.io/docs/images/20240615153236/image0.png" alt="image0"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="https://you-jae-hyun.github.io/tags/123-123-543534/">123 123, 543534</category>
+      
+      
+      <comments>https://you-jae-hyun.github.io/2024/06/15/20240615153236_%EC%83%88%EB%A1%9C%EC%9A%B4_%EA%B8%80_%EB%82%B4%EC%9A%A9%EC%9D%B4%EC%97%90%EC%9A%94./#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
